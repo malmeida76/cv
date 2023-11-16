@@ -101,7 +101,8 @@ Contribuições:
 
 # Links
 
-- **Github:** [@renatorib](http://github.com/malmeida76)
-- **Twitter:** [@renatoribz](http://twitter.com/malmeida76)
-- **Linkedin:** [@renatorib](https://www.linkedin.com/in/renatorib/)
+- **Github:** (https://github.com/malmeida76)
+- **Escavador** (https://www.escavador.com/sobre/659249/marcus-roberto-lima-almeida)
+- **Twitter:** (https://twitter.com/malmeida76)
+- **Linkedin:** (https://www.linkedin.com/in/marcus-almeida-493293/)
 - **E-mail:** marcusalmeida@gmx.us
