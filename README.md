@@ -1,9 +1,3 @@
-<sup>
-[Ler na web](https://github.com/malmeida76/cv/blob/master/PT-BR.md) | [Read in english](https://github.com/malmeida76/cv/blob/master/EN-US.md)
-</sup>
-
-<img align="right" width="120" src="https://user-images.githubusercontent.com/3277185/213899822-f6ea7d04-76c7-45e9-9bf8-00bb719301ce.png" />
-
 # Marcus Roberto
 
 _Software Engineer, 47 anos._  
@@ -19,9 +13,9 @@ Nascido no Rio de Janeiro, criado e amadurecido pelo mundo todo. Desde muito jov
 - [Servir & Servir 1998](#Assembler, #Delphi, #Cobol, #Natural, #Easytrive, #Cics, #Mumps)
 - [EWs 2001-2002](#Visual Basic, #SQL Server, #Vignete, #tcl)
 - [Arboll/IBM 2003-2005](#Lotus Notes, #Lotus Domino, #Email )
-- [Losango 2018-2019](#Infraestrutura, #Cisco, #Rotamento, #Firewall)
-- [Globo ](#Lotus Notes, #CRM)
-- [NuiCaf! ](#Widows Server, #infraestrutura, #Active Directory, #lotus Notes, #Mysql)
+- [Losango](#Infraestrutura, #Cisco, #Rotamento, #Firewall)
+- [Globo](#Lotus Notes, #CRM)
+- [NuiCaf](#Widows Server, #infraestrutura, #Active Directory, #lotus Notes, #Mysql)
 - [ISPRJ 2005-2018](#CEO, #Redes, #Internet Banda Larga, #VPN, #Firewall, #BGP, #MPLS)
 - [RIO NET 2015-2021](#CEO, #Redes, #AWS, #Infraestrutura, #Mikrotik, #Cisco, #ProxMox, #Docker, #VmWare, #Linux, #Huawey, #Vitualização)
 - [FM SISTEMAS 2022-2023](#CEO, #Whatsapp Marketing, #Marketing Digital, #Google Ads, #Facebook Ads, #Delphi, #Nodejs, #Python, #ChatGpt, #TensorFlow, #Pytorch, #Computer Vision, #Machine Learn)
